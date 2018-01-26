@@ -1,10 +1,10 @@
-# blockchain
+# MNZ chain
 
 a toy blockchain implementation, for learning purposes.
 
 ## Background
 
-inspired from
+inspired from awesome
 
 [Learn Blockchains by Building One](https://github.com/dvf/blockchain)
 
@@ -69,3 +69,9 @@ Register a node in the blockchain network
 Resolving Blockchain
 
 * `GET 127.0.0.1:8001/nodes/resolve`
+
+
+## TODO
+
+- a lot!
+
