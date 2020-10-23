@@ -211,6 +211,7 @@ func RegisterNodesHandler(w http.ResponseWriter, req *http.Request) {
 func ConsensusHandler(w http.ResponseWriter, req *http.Request) {
 
 	log.Println("nodes resolve register")
+	w.Write([]byte("sorry, not yet implemented!"))
 	//TODO
 
 }
